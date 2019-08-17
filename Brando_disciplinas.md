@@ -1,0 +1,5 @@
+- DevOps: irá ajudar com ferramentas capazes de deixar o trabalho com projetos de programação mais eficiente e de forma otimizada.  
+- TecWeb: irá ajudar na confecção de sites tanto com o front-end quanto com partes do back-end.  
+- LPII : irá contribuir com a integração do site com o banco de dados.    
+- SQL: irá contribuir na criação e na manipulação de bancos de dados.  
+- EngSoft : irá contribuir com a criação de softwares tendo em vista a solução para as necessidades de um cliente/usuário.
