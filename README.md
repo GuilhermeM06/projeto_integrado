@@ -6,4 +6,5 @@ Nome: Hadnan Basilio
 RA: 1901020  
 Nome: Brando de Oliveira Veridiano  
 RA: 1901003  
-
+Nome: Victor Pereira Rodrigues  
+RA: 1901015
