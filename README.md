@@ -7,4 +7,6 @@ RA: 1901020
 Nome: Brando de Oliveira Veridiano  
 RA: 1901003  
 Nome: Victor Pereira Rodrigues  
-RA: 1901015
+RA: 1901015  
+Nome: Víctor Hugo Sanches Barbosa  
+RA: 1900982
